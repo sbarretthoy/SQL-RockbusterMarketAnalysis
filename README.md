@@ -1,4 +1,4 @@
-# SQL-RockbusterMarkeyAnalysis
+# SQL-RockbusterMarketAnalysis
 Analysis of Rockbusters' market using SQL as part of CareerFoundry program
 
 # Rockbuster Stealth Data Analysis Project
@@ -17,4 +17,16 @@ Rockbuster Stealth is a movie rental company that used to have stores around the
 
 ## Data 
 
-This project uses data sets that contains information about Rockbuster’s film inventory, customers, and payments, among other things
+This project uses data sets that contains information about Rockbuster’s film inventory, customers, and payments.
+http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
+
+## Tools
+
+PostgreSQL is used to query data to filter, summarize, aggregate as well as perform SQL functions such as subqueries, CTEs, and joining tables.
+Tableau is used to create visualizations
+
+## Project Deliverable
+
+- Create a final report that presents the findings of the analysis with a compelling story and vizualizations. 
+- Create a technical report that shows the SQL queries performed to reach the conclusions of the analysis.
+- Create a data dictionary that explains the data
