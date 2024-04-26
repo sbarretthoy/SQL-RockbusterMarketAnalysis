@@ -22,11 +22,14 @@ http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
 ## Tools
 
-PostgreSQL is used to query data to filter, summarize, aggregate as well as perform SQL functions such as subqueries, CTEs, and joining tables.
-Tableau is used to create visualizations
+- PostgreSQL is used to query data to filter, summarize, aggregate as well as perform SQL functions such as subqueries, CTEs, and joining tables.
+- Tableau is used to create visualizations.
+- [Tableau Vizualizations](https://public.tableau.com/views/SQLFinalProject_17107442217410/bottomtitles?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Project Deliverable
 
 - Create a final report that presents the findings of the analysis with a compelling story and vizualizations. 
 - Create a technical report that shows the SQL queries performed to reach the conclusions of the analysis.
-- Create a data dictionary that explains the data
+- Create a data dictionary that explains the data.
+
+ 
